@@ -1,10 +1,10 @@
-Hi, I'm Jake 👋
+# Jake Dryka 👋
 
-Founder and developer building **Tidefall, Wavo, ScamSmart, games, websites and digital products**.
+Founder and developer behind **Tidefall, Wavo, ScamSmart, games, websites and digital products**.
 
 I like taking ideas from “this would be cool” to something people can actually use.
 
- 🚀 What I'm Building
+## 🚀 What I'm Building
 
 🌊 Tidefall
 
@@ -16,11 +16,11 @@ Website: https://tidefall.com.au
 
 A social and messaging platform with groups, games, voice features and more in development.
 
- 🛡️ ScamSmart
+🛡️ ScamSmart
 
 A project focused on helping people recognise and avoid scams.
 
-🧪 Other Projects
+## 🧪 Other Projects
 
 I also build:
 
@@ -45,7 +45,7 @@ Currently exploring more game development, 3D tools, AI and interactive experien
 * Escape the Hoard
 * Built by Jake
 
- 📈 Building constantly
+## 📈 Building constantly
 
 Most of my projects start as experiments and grow from there.
 
