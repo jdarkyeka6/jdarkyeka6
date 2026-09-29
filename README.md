@@ -1,6 +1,6 @@
 # Jake Dryka 👋
 
-Founder and developer behind **Tidefall, Wavo, ScamSmart, games, websites and digital products**.
+Founder and developer behind **Tidefall, Wavo, games, websites and digital products**.
 
 I like taking ideas from “this would be cool” to something people can actually use.
 
@@ -15,10 +15,6 @@ Website: https://tidefall.com.au
 💬 Wavo
 
 A social and messaging platform with groups, games, voice features and more in development.
-
-🛡️ ScamSmart
-
-A project focused on helping people recognise and avoid scams.
 
 ## 🧪 Other Projects
 
