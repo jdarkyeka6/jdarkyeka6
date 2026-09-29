@@ -50,6 +50,3 @@ Currently exploring more game development, 3D tools, AI and interactive experien
 Most of my projects start as experiments and grow from there.
 
 If something sounds interesting, there's a decent chance I'm already trying to build it.
-
-
-verify-chat-48271
