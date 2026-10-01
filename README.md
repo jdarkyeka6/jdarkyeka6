@@ -47,5 +47,6 @@ Most of my projects start as experiments and grow from there.
 
 If something sounds interesting, there's a decent chance I'm already trying to build it.
 
-wavo is now on the appstore check it out:
-https://apps.apple.com/au/app/wavo/id6792405668
+**Wavo is now on the App Store!** 🚀
+
+[Download Wavo on the App Store](https://apps.apple.com/au/app/wavo/id6792405668)
